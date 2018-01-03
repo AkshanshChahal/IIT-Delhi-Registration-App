@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AAA</string>
+    <string name="action_settings">Settings</string>
+    <string name="Title">TEAM REGISTRATION PORTAL</string>
+    <string name="Name1">Name</string>
+    <string name="hint1a">1st Member\'s Name</string>
+    <string name="name1">#1 Name</string>
+    <string name="entry1">#1 Entry Number</string>
+    <string name="hint2a">#2 Name</string>
+    <string name="Name2">Name</string>
+    <string name="hint2b">#2 Entry Number</string>
+    <string name="hint3a">#3 Name</string>
+    <string name="hint3b">#3 Entry Number</string>
+    <string name="submit">Submit !!</string>
+    <string name="hint1A">#1 Name</string>
+    <string name="hint2A">#2 Name</string>
+    <string name="hint3A">#3 Name</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="title_activity_main4">Main4Activity</string>
+</resources>
